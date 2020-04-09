@@ -1,0 +1,1 @@
+export const POST_DATA_FORM = 'POST_DATA_FORM';

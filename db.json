@@ -1,0 +1,130 @@
+{
+  "form": [
+    {
+      "conditionals": [
+        {
+          "id": "XVsdrYYohMztEWMxifPHd",
+          "type": "Выберите условие",
+          "conditionsVariants": {
+            "entities": {
+              "Nj7MYQT1tzxhrC7Ym4tVT": {
+                "id": "Nj7MYQT1tzxhrC7Ym4tVT",
+                "interval": {
+                  "start": "11",
+                  "end": "22"
+                }
+              }
+            },
+            "ids": [
+              "Nj7MYQT1tzxhrC7Ym4tVT"
+            ]
+          }
+        },
+        {
+          "id": "3f23uOWJRt6HY9lixyx0J",
+          "type": "Выберите условие",
+          "conditionsVariants": {
+            "entities": {
+              "VgUpiwvHWKCZar8yV-iLS": {
+                "id": "VgUpiwvHWKCZar8yV-iLS",
+                "type": "Gold"
+              },
+              "9SJ1VyGArgmUr2w4gb9Ra": {
+                "id": "9SJ1VyGArgmUr2w4gb9Ra",
+                "type": "Bronze"
+              }
+            },
+            "ids": [
+              "VgUpiwvHWKCZar8yV-iLS",
+              "9SJ1VyGArgmUr2w4gb9Ra"
+            ]
+          }
+        },
+        {
+          "id": "5g4HntOx8k07fAM1qeMlG",
+          "type": "Выберите условие",
+          "conditionsVariants": {
+            "entities": {
+              "q7i1qcu8TBU2IFSVMUwXP": {
+                "id": "q7i1qcu8TBU2IFSVMUwXP",
+                "status": "Активна"
+              },
+              "iXLQeekFxDAg5uHOrzLRy": {
+                "id": "iXLQeekFxDAg5uHOrzLRy",
+                "status": "Не активна"
+              }
+            },
+            "ids": [
+              "q7i1qcu8TBU2IFSVMUwXP",
+              "iXLQeekFxDAg5uHOrzLRy"
+            ]
+          }
+        }
+      ],
+      "id": 1
+    },
+    {
+      "conditionals": [
+        {
+          "id": "XVsdrYYohMztEWMxifPHd",
+          "type": "Выберите условие",
+          "conditionsVariants": {
+            "entities": {
+              "Nj7MYQT1tzxhrC7Ym4tVT": {
+                "id": "Nj7MYQT1tzxhrC7Ym4tVT",
+                "interval": {
+                  "start": "55",
+                  "end": "77"
+                }
+              }
+            },
+            "ids": [
+              "Nj7MYQT1tzxhrC7Ym4tVT"
+            ]
+          }
+        },
+        {
+          "id": "3f23uOWJRt6HY9lixyx0J",
+          "type": "Выберите условие",
+          "conditionsVariants": {
+            "entities": {
+              "VgUpiwvHWKCZar8yV-iLS": {
+                "id": "VgUpiwvHWKCZar8yV-iLS",
+                "type": "Silver"
+              },
+              "9SJ1VyGArgmUr2w4gb9Ra": {
+                "id": "9SJ1VyGArgmUr2w4gb9Ra",
+                "type": "Gold"
+              }
+            },
+            "ids": [
+              "VgUpiwvHWKCZar8yV-iLS",
+              "9SJ1VyGArgmUr2w4gb9Ra"
+            ]
+          }
+        },
+        {
+          "id": "5g4HntOx8k07fAM1qeMlG",
+          "type": "Выберите условие",
+          "conditionsVariants": {
+            "entities": {
+              "q7i1qcu8TBU2IFSVMUwXP": {
+                "id": "q7i1qcu8TBU2IFSVMUwXP",
+                "status": "Активна"
+              },
+              "iXLQeekFxDAg5uHOrzLRy": {
+                "id": "iXLQeekFxDAg5uHOrzLRy",
+                "status": "Активна"
+              }
+            },
+            "ids": [
+              "q7i1qcu8TBU2IFSVMUwXP",
+              "iXLQeekFxDAg5uHOrzLRy"
+            ]
+          }
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
